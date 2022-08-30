@@ -4,7 +4,6 @@ teaching: 10
 exercises: 10
 questions:
 - "What is R and why is it important to learn it?"
-- "What types of data does the R language has?"
 
 objectives:
 - "Understand why R is important."
