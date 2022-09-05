@@ -1,5 +1,5 @@
 ---
-title: "Dataframes manipulation"
+title: "Dataframe Manipulation"
 teaching: 10
 exercises: 10
 questions:
